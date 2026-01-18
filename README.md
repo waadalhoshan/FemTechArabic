@@ -5,7 +5,6 @@ This repository contains the complete replication package for the paper:
 **"Prioritized Perspectives and Concerns in Arabic Reviews of FemTech Apps: A Mixed Method of Topic Modeling and Multi-Criteria Analysis"**
 
 By: Waad Alhoshan  
-Affiliation: Imam Mohammad ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia
 
 ## Overview
 
