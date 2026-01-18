@@ -160,17 +160,7 @@ For detailed methodology, see `docs/METHODOLOGY.md`.
 
 ## Citation
 
-If you use this replication package, please cite:
-
-```bibtex
-@article{alhoshan2025femtech,
-  title={Prioritized Perspectives and Concerns in Arabic Reviews of FemTech Apps: A Mixed Method of Topic Modeling and Multi-Criteria Analysis},
-  author={Alhoshan, Waad},
-  journal={PeerJ},
-  year={2025},
-  publisher={PeerJ Inc.}
-}
-```
+If you use this replication package, please cite: TO BE ADDED LATER 
 
 ## License
 
