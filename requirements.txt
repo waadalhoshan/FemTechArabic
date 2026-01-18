@@ -1,0 +1,34 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# NLP and Arabic text processing
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+bertopic>=0.15.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+
+# Arabic NLP models
+camel-tools>=1.5.0
+arabert>=1.0.0
+
+# OpenAI for dialect normalization
+openai>=1.0.0
+
+# Sentiment analysis
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+
+# Optional: Jupyter for interactive analysis
+jupyter>=1.0.0
+ipywidgets>=8.0.0
