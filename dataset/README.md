@@ -1,7 +1,3 @@
-# Dataset Folder
-
-This folder contains the raw Arabic reviews dataset used in the analysis.
-
 ## Required File
 
 Place your reviews CSV file here as: **`reviews.csv`**
@@ -80,5 +76,5 @@ Due to privacy and copyright considerations, the actual review dataset is **NOT*
 
 ## Contact
 
-For questions about data collection methodology, contact:
+For questions about data collection methodology, or the original dataset used in our study please contact me at (with a reasonable request):
 **Waad Alhoshan** (wmaboud@imamu.edu.sa)
